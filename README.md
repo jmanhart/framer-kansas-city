@@ -1,4 +1,4 @@
-## 📐 Framer Kansas City
+# 📐 Framer Kansas City
 
 Group info, projects, tips and tricks for the [Framer Kansas City user group](https://www.facebook.com/groups/FramerKansasCity/).
 
@@ -6,7 +6,7 @@ Group info, projects, tips and tricks for the [Framer Kansas City user group](ht
 
 ### 🗓 Meetup Resources
 
-#### meetup-demos/
+##### meetup-demos/
 - 001 - Need to have a first meetup! 😄
 
 
@@ -14,8 +14,8 @@ Group info, projects, tips and tricks for the [Framer Kansas City user group](ht
 
 ### 📐 Framer Examples
 
-#### framer-basic-examples/
-- Loops
+##### framer-examples/
+- Loops & Arrays
 - Classes
 - Conditionals
 - Functions
@@ -24,7 +24,7 @@ Group info, projects, tips and tricks for the [Framer Kansas City user group](ht
 
 -----
 
-### 📚 Other Resources & Further Reading
+#### 📚 Other Resources & Further Reading
 
 - [Framer Programing Basics Page](https://framer.com/getstarted/guides/programming/)
 - [Framer Cheat Sheet Series - Tess Gadd](https://medium.com/@tessgadd/latest)
