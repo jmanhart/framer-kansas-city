@@ -15,7 +15,7 @@ Group info, projects, tips and tricks for the [Framer Kansas City user group](ht
 ### 📐 Framer Examples
 
 ##### framer-examples/
-- [Loops & Arrays](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-examples/001-loops-and-arrays-basic.framer)
+- [Loops & Arrays](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-examples/)
 - Classes **Coming Soon!**
 - Conditionals **Coming Soon!**
 - Modules **Coming Soon!**
@@ -24,8 +24,8 @@ Group info, projects, tips and tricks for the [Framer Kansas City user group](ht
 
 #### 📚 Other Resources & Further Reading
 
-- [Framer Programing Basics Page](https://framer.com/getstarted/guides/programming/)
-- [Framer Cheat Sheet Series - Tess Gadd](https://medium.com/@tessgadd/latest)
-- [Framer Workshop - Shana Hu](https://github.com/shanawho/Framer-Workshop)
-- [Coffee Script Documentation](https://coffeescript.org/)
 - [Framer Offical Site](https://framer.com/)
+- [Framer Programing Basics Page](https://framer.com/getstarted/guides/programming/)
+- [Framer Cheat Sheet Series](https://medium.com/@tessgadd/latest) - [@TessGadd](https://twitter.com/tessgadd?lang=en)
+- [Framer Workshop](https://github.com/shanawho/Framer-Workshop) - [@shanawho](https://twitter.com/shanawho?lang=en)
+- [Coffee Script Documentation](https://coffeescript.org/)
