@@ -1,4 +1,6 @@
-# 📐 Framer Kansas City
+
+![Framer Sketch Book](https://imgur.com/XoWESR0.png)
+### 📐 Framer Kansas City
 
 Group info, projects, tips and tricks for the [Framer Kansas City user group](https://www.facebook.com/groups/FramerKansasCity/).
 
