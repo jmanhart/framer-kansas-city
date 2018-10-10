@@ -9,18 +9,20 @@ Group info, projects, tips and tricks for the [Framer Kansas City user group](ht
 ### 🗓 Meetup Resources
 
 ##### meetup-demos/
-- 001 - Need to have a first meetup! 😄
+- 001 - 11/13/2018
 
 
 -----
 
 ### 📐 Framer Examples
 
-##### framer-examples/
-- [Loops & Arrays](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-examples/)
-- Classes **Coming Soon!**
-- Conditionals **Coming Soon!**
-- Modules **Coming Soon!**
+##### [Framer X](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-x/)
+##### [Framer Studio](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-studio/)
+  - [Loops & Arrays](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-studio/)
+  - Classes **Coming Soon!**
+  - Conditionals **Coming Soon!**
+  - Modules **Coming Soon!**
+
 
 -----
 
