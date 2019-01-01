@@ -17,6 +17,7 @@ Group info, projects, tips and tricks for the [Framer Kansas City user group](ht
 ### 📐 Framer Examples
 
 ##### [Framer X](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-x/)
+  - [Tips & Tricks](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-x/tips-&tricks.md)
 ##### [Framer Studio](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-studio/)
   - [Loops & Arrays](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-studio/)
   - Classes **Coming Soon!**
