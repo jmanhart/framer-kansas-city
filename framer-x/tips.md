@@ -1,4 +1,4 @@
-## Tips & tricks
+## Tips
 
 #### Getting to Source code for packages.
 1. Install a package wihtin the Framer X Store (Favorite it if you like it as well)
