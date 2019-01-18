@@ -18,8 +18,11 @@ interface States {
 
 
 const Wrapper = styled<Props, any>("div")`
+    width: 343px;
     height: 44px;
     background-color:green;
+    display: flex;
+    justify-content: flex-end;
 ` 
 
 const ToggleCompStyle = styled<Props, any>("div")`
@@ -90,7 +93,7 @@ export class toggle extends React.Component<Partial<Props>, States> {
                     style={Object.assign(
                         {
                             left: this.state.enabled
-                                ? 80 - 38 + "px"
+                                ? this.props.width - 38 + "px"
                                 : "6px",
                             boxShadow: "0 1px 5px 0 rgba(0,0,0,0.25)"
                         }
