@@ -90,10 +90,10 @@
                     "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"7l0i9-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"7l0i9-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSDisplay-Medium&quot;, &quot;SFProDisplay-Medium&quot;, &quot;SFUIDisplay-Medium&quot;, &quot;.SFUIDisplay-Medium&quot;, sans-serif;-webkit-text-fill-color:#333333;font-size:24px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Tumeric woke af artisan williamsburg synth tilde.<\/span><\/span><\/div><\/div>",
                     "os" : "10_14",
                     "size" : {
-                      "height" : 196,
-                      "width" : 91
+                      "height" : 168,
+                      "width" : 101
                     },
-                    "width" : 90
+                    "width" : 100
                   },
                   "entityMap" : {
 
@@ -102,9 +102,7 @@
                 "top" : 82,
                 "visible" : true,
                 "width" : 0.89940828402366868,
-                "widthType" : 1,
-                "x" : 137,
-                "y" : 160
+                "widthType" : 1
               },
               {
                 "__class" : "TextNode",
@@ -188,9 +186,7 @@
                 "top" : null,
                 "visible" : true,
                 "width" : 0.89940828402366868,
-                "widthType" : 1,
-                "x" : 137,
-                "y" : 160
+                "widthType" : 1
               }
             ],
             "clip" : false,
@@ -251,9 +247,9 @@
           {
             "__class" : "CodeComponentNode",
             "aspectRatio" : null,
-            "bottom" : 115,
+            "bottom" : 94,
             "centerAnchorX" : 0.15466666666666667,
-            "centerAnchorY" : 0.79460269865067468,
+            "centerAnchorY" : 0.82608695652173914,
             "children" : [
 
             ],
@@ -284,7 +280,7 @@
             "fillType" : "color",
             "height" : 44,
             "heightType" : 0,
-            "id" : "OEucIPp5I",
+            "id" : "MhQ7k5oaG",
             "intrinsicHeight" : 44,
             "intrinsicWidth" : 80,
             "left" : 18,
@@ -308,25 +304,27 @@
             "widthType" : 0
           },
           {
-            "__class" : "FrameNode",
+            "__class" : "CodeComponentNode",
             "aspectRatio" : null,
-            "blendingEnabled" : 0,
-            "blendingMode" : "normal",
-            "bottom" : 167,
-            "centerAnchorX" : 0.15466666666666667,
-            "centerAnchorY" : 0.73088455772113947,
+            "bottom" : null,
+            "centerAnchorX" : -0.089333333333333334,
+            "centerAnchorY" : 0.086956521739130432,
             "children" : [
 
             ],
-            "clip" : false,
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/toggle.tsx_toggle",
+            "codeComponentProps" : {
+              "enabled" : false,
+              "tintColor" : "#5C6061"
+            },
             "codeOverrideEnabled" : false,
             "constraintsLocked" : false,
-            "deviceType" : null,
             "exportOptions" : [
 
             ],
-            "fillColor" : "rgba(0, 153, 255, 0.5)",
-            "fillEnabled" : true,
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
             "fillGradient" : {
               "__class" : "LinearGradient",
               "alpha" : 1,
@@ -339,25 +337,17 @@
             "fillImagePixelWidth" : null,
             "fillImageResize" : "fill",
             "fillType" : "color",
-            "height" : 25,
+            "height" : 44,
             "heightType" : 0,
-            "id" : "XoNa7pWlP",
-            "intrinsicHeight" : null,
-            "intrinsicWidth" : null,
-            "isExternalMaster" : null,
-            "isMaster" : false,
-            "isTarget" : false,
-            "left" : 18,
+            "id" : "Qkll1hq5o",
+            "intrinsicHeight" : 44,
+            "intrinsicWidth" : 343,
+            "left" : -205,
             "locked" : false,
             "name" : null,
-            "navigationTarget" : null,
-            "navigationTransition" : "push",
-            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
-            "navigationTransitionDirection" : "left",
             "opacity" : 1,
             "originalid" : null,
             "parentid" : "yQwwlS8lX",
-            "previewSettings" : null,
             "radius" : 0,
             "radiusBottomLeft" : 0,
             "radiusBottomRight" : 0,
@@ -365,12 +355,11 @@
             "radiusPerCorner" : false,
             "radiusTopLeft" : 0,
             "radiusTopRight" : 0,
-            "replicaInfo" : null,
             "right" : null,
             "rotation" : 0,
-            "top" : null,
+            "top" : 36,
             "visible" : true,
-            "width" : 80,
+            "width" : 343,
             "widthType" : 0
           }
         ],
@@ -405,7 +394,7 @@
         "isTarget" : false,
         "left" : 0,
         "locked" : false,
-        "name" : null,
+        "name" : "phoneScreen",
         "navigationTarget" : null,
         "navigationTransition" : "push",
         "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",

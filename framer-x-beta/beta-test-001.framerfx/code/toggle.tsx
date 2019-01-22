@@ -2,6 +2,8 @@ import * as React from "react";
 import { PropertyControls, ControlType } from "framer";
 import styled from "styled-components";
 
+//Importing Canvas Elements
+import phoneScreen from "./canvas";
 
 
 // Define type of property
@@ -47,7 +49,7 @@ export class toggle extends React.Component<Partial<Props>, States> {
 
     // Set default properties
     static defaultProps = {
-        width: 80,
+        width: 343,
         height: 44,
         tintColor: "#5C6061",
         enabled: false
@@ -93,7 +95,7 @@ export class toggle extends React.Component<Partial<Props>, States> {
                     style={Object.assign(
                         {
                             left: this.state.enabled
-                                ? this.props.width - 38 + "px"
+                                ? this.props.width - (343 + ToggleCompStyle.width) + "px"
                                 : "6px",
                             boxShadow: "0 1px 5px 0 rgba(0,0,0,0.25)"
                         }
