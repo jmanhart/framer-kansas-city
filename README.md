@@ -21,7 +21,6 @@ Group info, projects, tips and tricks for the [Framer Kansas City user group](ht
 ##### [Framer Studio](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-studio/)
   - [Loops & Arrays](https://github.com/jmanhart/framer-kansas-city/tree/master/framer-studio/)
   - Classes **Coming Soon!**
-  - Conditionals **Coming Soon!**
   - Modules **Coming Soon!**
 
 
