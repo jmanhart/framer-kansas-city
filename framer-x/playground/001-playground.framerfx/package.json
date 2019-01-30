@@ -13,5 +13,11 @@
 	"framer": {
 		"id": "fa07acbb-3efd-48a6-b8c3-3f4bc941b0a7"
 	},
-	"author": "John Manhart"
+	"author": "John Manhart",
+	"dependencies": {
+		"@framer/apetrov.timenow": "^1.1.0",
+		"@framer/benjamin.slider": "^1.8.0",
+		"@framer/dropbox.desktop-kit": "^1.1.0",
+		"@framer/google.material-design": "^1.0.0"
+	}
 }

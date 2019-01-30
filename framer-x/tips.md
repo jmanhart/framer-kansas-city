@@ -41,7 +41,7 @@ Basic example of how to add a package to your project and even use it! In this c
 6. Render the `AwesomeThingYouAreMaking`
 ```javascript
 render() {  
-  return <StyledButton>{this.props.text}</StyledButton>
+  return <AwesomeThingYouAreMaking>{this.props.text}</AwesomeThingYouAreMaking>
 }
 ```
 
