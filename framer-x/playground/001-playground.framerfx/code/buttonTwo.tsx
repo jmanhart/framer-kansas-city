@@ -14,24 +14,38 @@ export class buttonTwo extends React.Component<Props> {
 
     // Set default properties
     static defaultProps = {
-        text: "He World!",
-        width: "100%",
-        height: 50,
+        text: "_String Needed_",
+        buttonKind: "Hello",
+        width: 343,
+        height: 48,
     }
 
     // Items shown in property panel
     static propertyControls: PropertyControls = {
         text: { 
             type: ControlType.String, 
-            title: "Text" 
+            title: "Button Label" 
         },
+        buttonKind: {
+            type: ControlType.Enum, 
+            title: "Enum",
+            options: ["A", "B", "C"],
+            optionTitles: [
+                "Primary", 
+                "Secondary", 
+                "Tertiary"
+            ]
+        }
     }
+
+
+
 
     render() {
         return(
             <div style={outer}>
                 <div style={inner}>
-                    <h1 style={{color:"white"}}>{this.props.text}</h1>
+                    <span style={buttonLabel}>{this.props.text}</span>
                 </div>
             </div>
         );
@@ -46,17 +60,23 @@ const outer: React.CSSProperties = {
     alignItems: "center",
     justifyContent: "center",
     textAlign: "left",
-    background: "rgba(136, 85, 255, 0.4)",
+    background: "rgba(136, 85, 255, 0.0)",
     overflow: "hidden",
 };
 
 const inner: React.CSSProperties = {
     height: "100%",
-    width: "90%",
+    width: "100%",
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
     textAlign: "left",
-    background: "rgba(136, 185, 255, 0.7)",
+    background: "#11A9ED",
     overflow: "hidden",
+    borderRadius: 4,
+};
+
+const buttonLabel: React.CSSProperties = {
+    fontSize: 17,
+    color: 'white'
 };

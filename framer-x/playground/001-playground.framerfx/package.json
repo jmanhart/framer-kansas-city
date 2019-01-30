@@ -15,9 +15,6 @@
 	},
 	"author": "John Manhart",
 	"dependencies": {
-		"@framer/apetrov.timenow": "^1.1.0",
-		"@framer/benjamin.slider": "^1.8.0",
-		"@framer/dropbox.desktop-kit": "^1.1.0",
-		"@framer/google.material-design": "^1.0.0"
+		"@framer/benjamin.properties": "^1.2.0"
 	}
 }
