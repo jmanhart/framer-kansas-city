@@ -2,6 +2,10 @@
 	"main": "dist/index.js",
 	"license": "MIT",
 	"devDependencies": {
+		"@framer/framer.device-hand-iphone-1": "^1.0.0",
+		"@framer/framer.device-hand-iphone-2": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone8-gold": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone8-space-gray": "^1.0.0",
 		"@types/react": "^16.4.16",
 		"framer": "^0.10.4"
 	},
@@ -15,6 +19,8 @@
 	},
 	"author": "John Manhart",
 	"dependencies": {
-		"@framer/benjamin.properties": "^1.2.0"
+		"@framer/addison.useful-examples": "^1.2.0",
+		"@framer/benjamin.properties": "^1.2.0",
+		"@framer/gusso.magic-move": "^1.12.0"
 	}
 }
